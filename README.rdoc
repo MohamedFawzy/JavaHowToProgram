@@ -1,1 +1,3 @@
 Implementation for book Java how to program 9th edition
+under src folder every package name is based on chapter on book e.g
+chapter2 , etc.
